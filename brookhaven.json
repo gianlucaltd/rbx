@@ -13,7 +13,7 @@
     "redirect_url": ""
   },
   "intro": {
-    "status": true,
+    "status": false,
     "sliders": [
       {
         "title": "Welcome to WebDroid",
@@ -46,29 +46,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/dashboard.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/dashboard_dark.html"
-    },
-    {
-      "name": "Portfolio",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
-    },
-    {
-      "name": "Testimonials",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/testimonials.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/testimonials_dark.html"
-    },
-    {
-      "name": "Contact us",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
+      "url": "https://app.com.tc/mods/brookhavenrbx/",
+      "url_dark": "https://app.com.tc/mods/brookhavenrbx/"
     },
     {
       "name": "Privacy Policy",
@@ -79,7 +58,7 @@
     }
   ],
   "ads": {
-    "ad_status": true,
+    "ad_status": false,
     "main_ads": "admob",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
